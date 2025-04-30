@@ -3,7 +3,7 @@
 Admin Dashboard responsif yang dibangun menggunakan **React.js**, **TailwindCSS**, dan **Recharts**.  
 Project ini menampilkan panel statistik penjualan dengan halaman-halaman utama seperti Dashboard, Sales, Products, dan Users.
 
-![Preview Dashboard](./public/preview.png)
+![Preview Dashboard](./preview.png)
 
 ## 🔗 Live Demo
 
